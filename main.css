@@ -1,7 +1,9 @@
 .b-code{
-    height: 100px;
-    width: 100px;
+
     background-color: blue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .imageMenu{
